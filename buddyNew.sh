@@ -1,4 +1,6 @@
 #!/bin/bash
+echo "Running sudo apt install adb..."
+sudo apt install adb -y
 echo "Make sure you are connected to the device of your choice! Running 'adb devices' in 3 seconds..."
 sleep 3
 adb devices

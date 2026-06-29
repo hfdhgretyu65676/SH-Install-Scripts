@@ -8,25 +8,25 @@ To install any of these tools, copy and paste the corresponding command directly
 
 * **Install Box64**
   ```bash
-  wget -qO- https://githubusercontent.com | bash
+  wget -qO- https://raw.githubusercontent.com/hfdhgretyu65676/SH-Install-Scripts/refs/heads/main/box64-install.sh | bash
   ```
 
 * **Install Box86**
   ```bash
-  wget -qO- https://githubusercontent.com | bash
+  wget -qO- https://raw.githubusercontent.com/hfdhgretyu65676/SH-Install-Scripts/refs/heads/main/box86-install.sh | bash
   ```
 
 * **Install Pi-Apps**
   ```bash
-  wget -qO- https://githubusercontent.com | bash
+  wget -qO- https://raw.githubusercontent.com/hfdhgretyu65676/SH-Install-Scripts/refs/heads/main/pi-apps-install.sh | bash
   ```
 
 * **Install bwfall**
   ```bash
-  wget -qO- https://githubusercontent.com | bash
+  wget -qO- https://raw.githubusercontent.com/hfdhgretyu65676/SH-Install-Scripts/refs/heads/main/bwfall-install.sh | bash
   ```
 
 * **Start Mantis Buddy for Mantis Mouse Pro**
   ```bash
-  wget -qO- https://githubusercontent.com | bash
+  wget -qO- https://raw.githubusercontent.com/hfdhgretyu65676/SH-Install-Scripts/refs/heads/main/buddyNew.sh | bash
   ```

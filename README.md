@@ -21,7 +21,7 @@ To install any of these tools, copy and paste the corresponding command directly
   wget -qO- https://raw.githubusercontent.com/hfdhgretyu65676/SH-Install-Scripts/refs/heads/main/pi-apps-install.sh | bash
   ```
 
-* **Install bwfall**
+* **Install Bwfall**
   ```bash
   wget -qO- https://raw.githubusercontent.com/hfdhgretyu65676/SH-Install-Scripts/refs/heads/main/bwfall-install.sh | bash
   ```

@@ -1,17 +1,17 @@
 # SH-Install-Scripts
 
-⚠️ **NOTE:** These scripts are exclusively for ARM64 Ubuntu/Debian based systems. Do not run them on other distributions.
+⚠️ **NOTE:** These scripts are exclusively for ARM64/ARMHF Ubuntu/Debian based systems. Do not run them on other distributions or archs.
 
 ## Installation Instructions
 
 To install any of these tools, copy and paste the corresponding command directly into your terminal:
 
-* **Install Box64**
+* **Install Box64 (ARM64)**
   ```bash
   wget -qO- https://raw.githubusercontent.com/hfdhgretyu65676/SH-Install-Scripts/refs/heads/main/box64-install.sh | bash
   ```
 
-* **Install Box86**
+* **Install Box86 (ARMHF)**
   ```bash
   wget -qO- https://raw.githubusercontent.com/hfdhgretyu65676/SH-Install-Scripts/refs/heads/main/box86-install.sh | bash
   ```
@@ -26,7 +26,7 @@ To install any of these tools, copy and paste the corresponding command directly
   wget -qO- https://raw.githubusercontent.com/hfdhgretyu65676/SH-Install-Scripts/refs/heads/main/bwfall-install.sh | bash
   ```
 
-* **Start Mantis Buddy for Mantis Mouse Pro**
+* **Start Mantis Buddy for Mantis Mouse Pro (make sure you are connected to your device with adb)**
   ```bash
   wget -qO- https://raw.githubusercontent.com/hfdhgretyu65676/SH-Install-Scripts/refs/heads/main/buddyNew.sh | bash
   ```

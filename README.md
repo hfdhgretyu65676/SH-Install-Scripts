@@ -16,7 +16,7 @@ To install any of these tools, copy and paste the corresponding command directly
   wget -qO- https://raw.githubusercontent.com/hfdhgretyu65676/SH-Install-Scripts/refs/heads/main/box64-install.sh | bash
   ```
 
-* **Install Box86 (ARMHF)**
+* **Install Box86 (ARMHF + ARM64)**
   ```bash
   wget -qO- https://raw.githubusercontent.com/hfdhgretyu65676/SH-Install-Scripts/refs/heads/main/box86-install.sh | bash
   ```

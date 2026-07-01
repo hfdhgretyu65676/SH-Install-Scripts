@@ -2,6 +2,9 @@
 
 ⚠️ **NOTE:** These scripts are exclusively for ARM64/ARMHF Ubuntu/Debian based systems. Do not run them on other distributions or architectures.
 
+**RUN THIS BEFORE RUNNING ANY OF THESE COMMANDS**
+ ```sudo apt install wget```
+
 ## Installation Instructions
 
 To install any of these tools, copy and paste the corresponding command directly into your terminal:

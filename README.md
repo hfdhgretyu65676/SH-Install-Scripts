@@ -4,7 +4,7 @@
 
 * **RUN THIS BEFORE RUNNING ANY OF THESE COMMANDS**
 ```bash
-sudo apt install wget
+sudo apt install wget -y
 ```
 
 ## Installation Instructions

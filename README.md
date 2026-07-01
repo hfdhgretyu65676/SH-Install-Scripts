@@ -21,17 +21,17 @@ To install any of these tools, copy and paste the corresponding command directly
   wget -qO- https://raw.githubusercontent.com/hfdhgretyu65676/SH-Install-Scripts/refs/heads/main/box86-install.sh | bash
   ```
 
-* **Install Pi-Apps**
+* **Install Pi-Apps (ARMHF + ARM64)**
   ```bash
   wget -qO- https://raw.githubusercontent.com/hfdhgretyu65676/SH-Install-Scripts/refs/heads/main/pi-apps-install.sh | bash
   ```
 
-* **Install Bwfall**
+* **Install Bwfall (ARMHF + ARM64)**
   ```bash
   wget -qO- https://raw.githubusercontent.com/hfdhgretyu65676/SH-Install-Scripts/refs/heads/main/bwfall-install.sh | bash
   ```
 
-* **Start Mantis Buddy for Mantis Mouse Pro (make sure you are connected to your device with adb)**
+* **Start Mantis Buddy for Mantis Mouse Pro (make sure you are connected to your device with adb, ARMHF + ARM64)**
   ```bash
   wget -qO- https://raw.githubusercontent.com/hfdhgretyu65676/SH-Install-Scripts/refs/heads/main/buddyNew.sh | bash
   ```

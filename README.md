@@ -1,6 +1,6 @@
 # SH-Install-Scripts
 
-⚠️ **NOTE:** These scripts are exclusively for ARM64/ARMHF Ubuntu/Debian based systems. Do not run them on other distributions or architectures.
+⚠️ **NOTE:** These scripts are exclusively for ARM64/ARMHF Ubuntu/Debian based systems. Do not run them on other distributions or architectures. exept for one.
 
 * **RUN THIS BEFORE RUNNING ANY OF THESE COMMANDS**
 ```bash
@@ -26,7 +26,7 @@ To install any of these tools, copy and paste the corresponding command directly
   wget -qO- https://raw.githubusercontent.com/hfdhgretyu65676/SH-Install-Scripts/refs/heads/main/pi-apps-install.sh | bash
   ```
 
-* **Install Bwfall (ARMHF + ARM64)**
+* **Install Bwfall (ARMHF,AMD32/x86 + ARM64,x86_64,AMD64)**
   ```bash
   wget -qO- https://raw.githubusercontent.com/hfdhgretyu65676/SH-Install-Scripts/refs/heads/main/bwfall-install.sh | bash
   ```

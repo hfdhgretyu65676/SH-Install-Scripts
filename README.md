@@ -1,6 +1,6 @@
 # SH-Install-Scripts
 
-⚠️ **NOTE:** These scripts are exclusively for ARM64/ARMHF Ubuntu/Debian based systems. Do not run them on other distributions or architectures. exept for one.
+⚠️ **NOTE:** These scripts are exclusively for ARM64/ARMHF Ubuntu/Debian based systems. Do not run them on other distributions or architectures. exept for two.
 
 * **RUN THIS BEFORE RUNNING ANY OF THESE COMMANDS**
 ```bash
@@ -31,7 +31,7 @@ To install any of these tools, copy and paste the corresponding command directly
   wget -qO- https://raw.githubusercontent.com/hfdhgretyu65676/SH-Install-Scripts/refs/heads/main/bwfall-install.sh | bash
   ```
 
-* **Start Mantis Buddy for Mantis Mouse Pro (make sure you are connected to your device with adb, ARMHF + ARM64)**
+* **Start Mantis Buddy for Mantis Mouse Pro (make sure you are connected to your device with adb, ARMHF,AMD32,x86 + ARM64,AMD64,x86_64)**
   ```bash
   wget -qO- https://raw.githubusercontent.com/hfdhgretyu65676/SH-Install-Scripts/refs/heads/main/buddyNew.sh | bash
   ```

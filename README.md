@@ -1,6 +1,6 @@
 # SH-Install-Scripts
 
-⚠️ **NOTE:** These scripts are exclusively for ARM64/ARMHF Ubuntu/Debian based systems. Do not run them on other distributions or architectures. exept for two.
+⚠️ **NOTE:** These scripts are exclusively for ARM64,ARMHF/AMD64,AMD32 Ubuntu/Debian based systems. Do not run them on other distributions or things can break.
 
 * **RUN THIS BEFORE RUNNING ANY OF THESE COMMANDS**
 ```bash

@@ -35,7 +35,7 @@ To install any of these tools, copy and paste the corresponding command directly
   ```bash
   wget -qO- https://raw.githubusercontent.com/hfdhgretyu65676/SH-Install-Scripts/refs/heads/main/buddyNew.sh | bash
   ```
-* **Install PineconeMC (AMD64+ARM64)**
+* **Install PineconeMC (ARM64, AMD64 Version soon.)**
   ```bash
    wget -qO- https://raw.githubusercontent.com/hfdhgretyu65676/SH-Install-Scripts/refs/heads/main/install.sh | bash
    ```

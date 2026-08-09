@@ -35,11 +35,11 @@ To install any of these tools, copy and paste the corresponding command directly
   ```bash
   wget -qO- https://raw.githubusercontent.com/hfdhgretyu65676/SH-Install-Scripts/refs/heads/main/buddyNew.sh | bash
   ```
-* **Install PineconeMC (ARM64, AMD64 Version soon.)**
+* **Install PineconeMC (ARM64+AMD64)**
   ```bash
    wget -qO- https://raw.githubusercontent.com/hfdhgretyu65676/SH-Install-Scripts/refs/heads/main/install.sh | bash
    ```
-* **Install Cat Bash  (its a AppImage file, AMD64+ARM64)**
+* **Install Cat Bash  (its a AppImage file, ARM64, AMD64 soon.)**
   ```bash
    wget -qO- https://raw.githubusercontent.com/hfdhgretyu65676/SH-Install-Scripts/refs/heads/main/install-cat-bash.sh | bash
    ```

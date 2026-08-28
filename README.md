@@ -43,4 +43,8 @@ To install any of these tools, copy and paste the corresponding command directly
   ```bash
    wget -qO- https://raw.githubusercontent.com/hfdhgretyu65676/SH-Install-Scripts/refs/heads/main/install-cat-bash.sh | bash
    ```
+* **Install Hangover (FEX and Box64)
+  ```bash
+  wget -qO- https://github.com/hfdhgretyu65676/SH-Install-Scripts/raw/refs/heads/main/install-hangover.sh | bash
+   ```
   **You Can Also Just Download The Files, Run 'chmod +x *file-you-pick*', then run it**

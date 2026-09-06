@@ -1,8 +1,11 @@
 arch=$(arch)
-
+page=$(getconf PAGESIZE)
 id=$(cat /etc/os-release | grep "^ID=" | cut -d'=' -f2 | tr -d '"')
 version=$(cat /etc/os-release | grep "^VERSION_ID=" | cut -d'=' -f2 | tr -d '"')
-
+if [ "$page" != "4096" ]; then
+echo 'Error! you need Page size "4096" to run FEX. Exiting...'
+exit 1
+else
 if [ "${id}-${version}" = "debian-12" ]; then
     if [ "$arch" = "x86_64" ]; then
          echo "Error! You are on x86_64, you need Arm64 for this to work. Exiting..."
@@ -33,4 +36,5 @@ else
  
     echo "Error! Detected system is '${id}-${version}'. This script is strictly for debian-12 systems. Exiting..."
     exit 1
+    fi
 fi

@@ -15,7 +15,7 @@ if [ "${id}-${version}" = "debian-12" ]; then
        exit 1
     else  
         echo "Downloading .tar.gz file from Github repo..."
-        sudo wget --silent -O /tmp/FEX-Emu-Debian12-ARM64.tar.gz https://github.com/hfdhgretyu65676/Debian12-FEX-Pre-compiled/releases/download/Debian12/FEX-Emu-Debian12-ARM64.tar.gz
+        sudo wget --quiet -O /tmp/FEX-Emu-Debian12-ARM64.tar.gz https://github.com/hfdhgretyu65676/Debian12-FEX-Pre-compiled/releases/download/Debian12/FEX-Emu-Debian12-ARM64.tar.gz
         
         if [ $? = "0" ]; then
             echo "Done. Extracing..."
